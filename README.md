@@ -1,4 +1,4 @@
-# Portfolio Site
+# Portfolio Site : https://firelegacy04.github.io/Shreeraj-Portfolio/
 
 Personal portfolio for Shreeraj Chimanpure, a Computer Science student at Minnesota State University, Mankato. The site has two parts: a sidebar introduction (who I am, what I work on, and how to reach me) and a list of projects covering machine learning, computer vision, and full-stack work.
 
